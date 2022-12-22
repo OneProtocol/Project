@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
-			Title = "Test",
+			Title = "Tes4545t",
 			Text = "test",
 			Icon = "",
 			Duration = 100000000000000,
