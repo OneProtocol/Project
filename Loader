@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
 			Title = "Progress",
-			Text = "The Current Progress Of Viribus 2.0.0 Is 30% as of 12/24/2",
+			Text = "The Current Progress Of Viribus 2.0.0 Is 30% as of 12/24/22 STAY UP TODATE in https://discord.gg/NHPqQg5JY5",
 			Icon = "",
 			Duration = 60
 		})
