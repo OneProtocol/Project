@@ -1,0 +1,7 @@
+game.StarterGui:SetCore("SendNotification", {
+        Title = "VIRIBUS,
+        Text = "CURRENTYLY SWITCHING TO V2.0.0,
+        Icon = "",
+        Duration = 100000000000000,
+        Button1 = "Confirm"
+    })
